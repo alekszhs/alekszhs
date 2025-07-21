@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### My name is Alexandros Gkourdoglou.I'm an Undergraduate IT University student and passionate Data Engineer.
+
+## 📫 How to reach me: 
+- e-mail : alekszhs@gmail.com
+- [Linkeding profile: ](www.linkedin.com/in/alexandros-gkourdoglou-6b7a6a225)
+
 <!--
 **alekszhs/alekszhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
