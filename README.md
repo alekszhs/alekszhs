@@ -3,7 +3,7 @@
 ### My name is Alexandros Gkourdoglou.I'm an Undergraduate IT University student and passionate Data Engineer.
 
 ## 📫 How to reach me: 
-- e-mail : alekszhs@gmail.com
+- [e-mail](alekszhs@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alexandros-gkourdoglou-6b7a6a225/)
 
 
