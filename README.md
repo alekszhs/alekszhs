@@ -38,6 +38,21 @@ Technologies used:
 
 ---
 
+### 🏗️ SQL Data Warehouse Project
+Design and implementation of a **modern data warehouse using SQL**.
+
+Features:
+
+- ETL pipelines for ingesting and transforming raw datasets
+- Dimensional modeling using **Star Schema**
+- Analytical queries for business intelligence
+- Clean and structured warehouse optimized for analytics workloads
+
+Technologies used:
+SQL, Data Modeling, ETL, Data Warehousing
+
+🔗 https://github.com/alekszhs/sql-data-warehouse-project
+
 ## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
