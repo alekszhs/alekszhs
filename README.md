@@ -35,7 +35,6 @@ Technologies used:
 - Docker
 - Terraform
 - Kestra
-
 🔗 https://github.com/alekszhs/taxi-streaming-platform
 ---
 
