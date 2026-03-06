@@ -1,32 +1,49 @@
 # 👋 Hi, I'm Alexandros
 
-I'm a passionate Data Engineer focused on building reliable, scalable data pipelines and enabling data-driven decisions.
+I'm a Data Engineering enthusiast focused on building **scalable data platforms and end-to-end data pipelines**.
 
-🔧 I specialize in:
-- ETL/ELT development
-- Workflow orchestration (Airflow, Prefect)
-- Data modeling & warehousing (dbt, Snowflake, BigQuery)
-- Streaming (Kafka, Spark)
-- Cloud (AWS, GCP)
-- Containerization (Docker)
+I enjoy designing systems that move data from raw ingestion to analytics-ready datasets using modern data stack tools.
+
+Currently I work with technologies around **streaming, batch processing, data lakes and cloud data warehouses**.
+
+---
+
+## 🚀 What I Work With
+
+- **Data Pipelines:** Python, SQL, ETL / ELT
+- **Streaming:** Apache Kafka, Spark Structured Streaming
+- **Data Warehousing:** BigQuery, dbt
+- **Orchestration:** Kestra / Airflow-style workflows
+- **Infrastructure:** Docker, Terraform
+- **Cloud:** Google Cloud Platform
 
 ---
 
 ## 📁 Featured Projects
 
-### [🔗 Data Pipeline with Airflow & dbt](https://github.com/alekszhs/data-pipeline)
-An end-to-end pipeline that extracts, transforms, and loads data from a public API into BigQuery using Airflow and dbt.
+### 🚕 Taxi Streaming Data Platform
+End-to-end **data engineering pipeline** processing NYC taxi data.
 
-### [📊 Streaming Data with Kafka](https://github.com/alekszhs/kafka-streaming)
-A real-time data ingestion and processing project using Kafka, Python, and Spark.
+
+Technologies used:
+
+- Kafka
+- Spark
+- Parquet Data Lake
+- BigQuery
+- dbt
+- Docker
+- Terraform
+- Kestra
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FD5200?style=for-the-badge&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -35,6 +52,6 @@ A real-time data ingestion and processing project using Kafka, Python, and Spark
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/alexandros-gkourdoglou-6b7a6a225/)
-- [GitHub](https://github.com/alekszhs)
-- [E-mail](alekszhs@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/alexandros-gkourdoglou-6b7a6a225/
+- GitHub: https://github.com/alekszhs
+- Email: alekszhs@gmail.com
