@@ -36,6 +36,7 @@ Technologies used:
 - Terraform
 - Kestra
 
+🔗 https://github.com/alekszhs/taxi-streaming-platform
 ---
 
 ### 🏗️ SQL Data Warehouse Project
