@@ -53,6 +53,9 @@ SQL, Data Modeling, ETL, Data Warehousing
 
 🔗 https://github.com/alekszhs/sql-data-warehouse-project
 
+---
+
+
 ### 📊 SQL Data Analytics Project
 A project focused on performing **data exploration and advanced analytics using SQL**.
 
@@ -70,6 +73,8 @@ Technologies used:
 SQL, Data Analysis, Data Exploration
 
 🔗 https://github.com/alekszhs/sql-data-analytics-project
+
+---
 
 ## 🛠️ Technologies
 
