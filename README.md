@@ -53,6 +53,24 @@ SQL, Data Modeling, ETL, Data Warehousing
 
 🔗 https://github.com/alekszhs/sql-data-warehouse-project
 
+### 📊 SQL Data Analytics Project
+A project focused on performing **data exploration and advanced analytics using SQL**.
+
+Key components of the project:
+
+- Exploratory Data Analysis (EDA) using SQL queries
+- Data cleaning and transformation
+- Business-focused analytical queries
+- Aggregations, window functions and trend analysis
+- Generating insights from structured datasets
+
+The project demonstrates how SQL can be used to **analyze datasets and extract meaningful business insights**.
+
+Technologies used:
+SQL, Data Analysis, Data Exploration
+
+🔗 https://github.com/alekszhs/sql-data-analytics-project
+
 ## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
