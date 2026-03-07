@@ -22,20 +22,20 @@ Currently I work with technologies around **streaming, batch processing, data la
 ## 📁 Featured Projects
 
 ### 🚕 Taxi Streaming Data Platform
-End-to-end **data engineering pipeline** processing NYC taxi data.
+Built an end-to-end data engineering pipeline processing NYC taxi data.
 
+Implemented real-time data ingestion using Kafka and processed data
+with Apache Spark. Transformed and stored datasets in a Parquet data lake
+and BigQuery for analytical workloads.
+
+Orchestrated workflows using Kestra and managed infrastructure
+with Docker and Terraform.
 
 Technologies used:
+Kafka, Apache Spark, BigQuery, dbt, Docker, Terraform, Kestra
 
-- Kafka
-- Spark
-- Parquet Data Lake
-- BigQuery
-- dbt
-- Docker
-- Terraform
-- Kestra
 🔗 https://github.com/alekszhs/taxi-streaming-platform
+
 ---
 
 ### 🏗️ SQL Data Warehouse Project
